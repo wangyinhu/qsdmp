@@ -1,0 +1,8 @@
+cmake-build-debug/
+cmake-build-release/
+rapidjson/
+.idea/
+venv/
+secure.py
+svr.conf
+__pycache__/

@@ -1,0 +1,6 @@
+libhiredis-dev
+redis-server
+openssl
+python3-dev
+rapidjson   //source files
+
